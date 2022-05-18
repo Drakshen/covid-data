@@ -1,4 +1,4 @@
-﻿"Date de déclaration du cas","Cas confirmés","Moyenne mobile (7 jours)","Annotations 1"
+﻿"Date de déclaration du cas","Cas confirmés","Moyenne mobile (7 jours)"
 "2020-02-24 00:00:00",0,0,14
 "2020-02-25 00:00:00",1,0,14
 "2020-02-26 00:00:00",0,0,14
@@ -680,7 +680,7 @@
 "2022-01-02 00:00:00",3884,4108,29
 "2022-01-03 00:00:00",3673,4017
 "2022-01-04 00:00:00",4519,3902,86
-"2022-01-05 00:00:00",4482,3734,57,"<a style="color:white" href="/covid-19/donnees/methodologie?accordeon=depistage1&ancre=acces-restreint">Dépistage restreint</a>"
+"2022-01-05 00:00:00",4482,3734,57
 "2022-01-06 00:00:00",3828,3644,71
 "2022-01-07 00:00:00",3231,3594,86
 "2022-01-08 00:00:00",2525,3261,86
